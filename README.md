@@ -27,7 +27,14 @@ The UNAIDS 90-90-90 targets are:
   - HIV/AIDS Deaths, Prevalence, and Incidence
   - Antiretroviral (ARV) Therapy Coverage
   - Global Competitiveness Index (GCI) - Infrastructure & Business Impact of HIV/AIDS
- 
+
+
+ ### Project Structure
+-  HIV_Shipments_Analysis_Dashboard.pbix: Full Power BI dashboard file.
+- /Datasets: Source dataset(s) used for analysis (raw data files from public databases).
+- /PCA_Analysis: PCA Analysis Code 
+- /Visuals: Screenshots of key visuals (for preview).
+
 ---
 
 ## Key Metrics for Alignment
@@ -54,3 +61,10 @@ The UNAIDS 90-90-90 targets are:
 ---
 ## Disclaimer
 This project was developed as part of academic coursework and is shared here for educational and portfolio purposes only. Unauthorized use, reproduction, or distribution is not permitted and may violate academic integrity policies.
+
+---
+## Note
+- If you don’t have Power BI installed, check out the /Visuals folder to get a snapshot of the report’s design.
+
+
+
